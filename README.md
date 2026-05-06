@@ -29,9 +29,9 @@ I'm currently studying both **backend and frontend development**, aiming to beco
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosM/&show_icons=true/&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosM&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosM/&layout=compact/&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosM&layout=compact&theme=tokyonight)
 
 ---
 
