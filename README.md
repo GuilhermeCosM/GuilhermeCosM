@@ -29,10 +29,7 @@ I'm currently studying both **backend and frontend development**, aiming to beco
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCosM&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCosM&layout=compact&theme=tokyonight)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GuilhermeCosM?cardType=github&theme=github-dark&fontFamily=Alumni%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)****
 ---
 
 > "Consistency beats intensity."
