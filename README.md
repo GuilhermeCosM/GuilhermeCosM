@@ -21,10 +21,10 @@ I'm currently studying both **backend and frontend development**, aiming to beco
 
 ## 📈 What I'm Doing
 
-* 🔧 Developing and testing APIs
-* 📚 Studying backend architecture
-* 🚀 Building personal projects
-
+- 🔧 Developing and testing APIs  
+- 🎨 Building and improving frontend interfaces  
+- 📚 Studying backend architecture and frontend best practices  
+- 🚀 Building personal projects  
 ---
 
 ## 📊 Stats
