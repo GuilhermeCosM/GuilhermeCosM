@@ -1,6 +1,6 @@
 # 👨‍💻 Guilherme CosM
 
-💡 Computer Engineering student | Backend Focus
+💡 Computer Engineering student 
 
 ---
 
@@ -10,7 +10,7 @@ I'm currently in the **9th semester of Computer Engineering**, building my path 
 
 At the moment, I work as an **IT Intern at Procon RJ**, where I deal with real-world systems and problem solving.
 
-I'm focused on backend development and constantly improving my skills with modern technologies.
+I'm currently studying both **backend and frontend development**, aiming to become a well-rounded full-stack developer.
 
 ---
 
