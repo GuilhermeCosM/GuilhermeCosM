@@ -16,8 +16,6 @@ I'm focused on backend development and constantly improving my skills with moder
 
 ## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
 ![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,angular,html,css,mysql,postgres,git,github,postman)
 ---
 
