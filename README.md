@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-I'm currently in the **9th semester of Computer Engineering**, building my path in software development.
+I'm currently studying Computer Engineering**, building my path in software development.
 
 At the moment, I work as an **IT Intern at Procon RJ**, where I deal with real-world systems and problem solving.
 
