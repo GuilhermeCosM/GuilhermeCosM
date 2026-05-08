@@ -37,6 +37,3 @@ I'm currently studying both **backend and frontend development**, aiming to beco
 ![Guilherme's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeCosM&theme=github-dark)
 
 ---
-
-> "Consistency beats intensity."
-
