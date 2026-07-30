@@ -16,7 +16,7 @@ I'm looking for opportunities as a Junior Software Developer, where I can contri
 
 ## ⚙️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,node.js,flutter,html,css,mysql,postgres,git,github,postman)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,node,flutter,html,css,mysql,postgres,git,github,postman)
 ---
 
 ## 📈 What I'm Doing
