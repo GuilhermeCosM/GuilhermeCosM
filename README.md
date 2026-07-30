@@ -1,22 +1,22 @@
 # 👨‍💻 Guilherme CosM
 
-💡 Computer Engineering student 
+💡 Computer Engineering student | Full Stack Developer
 
 ---
 
 ## 📌 About Me
 
-I'm currently studying **Computer Engineering**, building my path in software development.
+I'm a Computer Engineering student focused on software development, with hands-on experience building and maintaining internal systems in a corporate environment.
 
-At the moment, I work as an **IT Intern at Procon RJ**, where I deal with real-world systems and problem solving.
+Currently, I'm developing my skills in backend and frontend development, working with APIs, databases and modern web technologies.
 
-I'm currently studying both **backend and frontend development**, aiming to become a well-rounded full-stack developer.
+I'm looking for opportunities as a Junior Software Developer, where I can contribute to real-world projects and continue growing as a full-stack developer.
 
 ---
 
 ## ⚙️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,angular,html,css,mysql,postgres,git,github,postman)
+![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,spring,react,node.js,flutter,html,css,mysql,postgres,git,github,postman)
 ---
 
 ## 📈 What I'm Doing
